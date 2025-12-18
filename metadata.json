@@ -1,0 +1,8 @@
+{
+  "name": "VisionNarrator Pro",
+  "description": "An advanced AI-powered video analysis and narration tool that generates realistic voice-overs and transcriptions using Gemini 3 Pro and Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
